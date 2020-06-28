@@ -299,7 +299,7 @@ h3{
 .about p{
     text-align : justify;
 }
-@media (max-width:470px) and (min-width: 400px) {
+@media (max-width:896px) and (min-width: 400px) {
     header{
         background-image: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0,0,0,0.6)) ,url(./image/image3.jpeg);
         height : 100vh; 
